@@ -1,0 +1,68 @@
+[
+  {
+    "series_id": "S01",
+    "title": "Eng Weekly Sync",
+    "current_vitality": 81.2,
+    "first_vitality": 81.8,
+    "decay_rate_k": -0.0003,
+    "half_life_weeks": null,
+    "half_life_days": null,
+    "r2_of_fit": 0.002,
+    "recommendation": "KEEP \u2014 meeting is healthy."
+  },
+  {
+    "series_id": "S02",
+    "title": "Roadmap Review",
+    "current_vitality": 81.3,
+    "first_vitality": 77.9,
+    "decay_rate_k": -0.0025,
+    "half_life_weeks": null,
+    "half_life_days": null,
+    "r2_of_fit": 0.126,
+    "recommendation": "KEEP \u2014 meeting is healthy."
+  },
+  {
+    "series_id": "S03",
+    "title": "Status Round-Table",
+    "current_vitality": 53.5,
+    "first_vitality": 79.8,
+    "decay_rate_k": 0.0368,
+    "half_life_weeks": 18.8,
+    "half_life_days": 131.7,
+    "r2_of_fit": 0.629,
+    "recommendation": "RESTRUCTURE \u2014 shrink attendees or convert to async."
+  },
+  {
+    "series_id": "S04",
+    "title": "Design Critique",
+    "current_vitality": 80.1,
+    "first_vitality": 68.7,
+    "decay_rate_k": -0.0044,
+    "half_life_weeks": null,
+    "half_life_days": null,
+    "r2_of_fit": 0.174,
+    "recommendation": "KEEP \u2014 meeting is healthy."
+  },
+  {
+    "series_id": "S05",
+    "title": "Old All-Hands Prep",
+    "current_vitality": 31.5,
+    "first_vitality": 80.3,
+    "decay_rate_k": 0.0413,
+    "half_life_weeks": 16.8,
+    "half_life_days": 117.5,
+    "r2_of_fit": 0.737,
+    "recommendation": "KILL \u2014 vitality already collapsed."
+  },
+  {
+    "series_id": "S06",
+    "title": "Incident Postmortem",
+    "current_vitality": 77.9,
+    "first_vitality": 79.6,
+    "decay_rate_k": 0.0001,
+    "half_life_weeks": 4759.0,
+    "half_life_days": 33313.3,
+    "r2_of_fit": 0.011,
+    "recommendation": "KEEP \u2014 meeting is healthy."
+  }
+]

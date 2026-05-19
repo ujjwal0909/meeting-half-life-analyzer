@@ -1,0 +1,157 @@
+series_id,title,occurrence,date,duration_minutes
+S01,Eng Weekly Sync,0,2025-11-03,30
+S01,Eng Weekly Sync,1,2025-11-10,30
+S01,Eng Weekly Sync,2,2025-11-17,30
+S01,Eng Weekly Sync,3,2025-11-24,30
+S01,Eng Weekly Sync,4,2025-12-01,30
+S01,Eng Weekly Sync,5,2025-12-08,30
+S01,Eng Weekly Sync,6,2025-12-15,30
+S01,Eng Weekly Sync,7,2025-12-22,30
+S01,Eng Weekly Sync,8,2025-12-29,30
+S01,Eng Weekly Sync,9,2026-01-05,30
+S01,Eng Weekly Sync,10,2026-01-12,30
+S01,Eng Weekly Sync,11,2026-01-19,30
+S01,Eng Weekly Sync,12,2026-01-26,30
+S01,Eng Weekly Sync,13,2026-02-02,30
+S01,Eng Weekly Sync,14,2026-02-09,30
+S01,Eng Weekly Sync,15,2026-02-16,30
+S01,Eng Weekly Sync,16,2026-02-23,30
+S01,Eng Weekly Sync,17,2026-03-02,30
+S01,Eng Weekly Sync,18,2026-03-09,30
+S01,Eng Weekly Sync,19,2026-03-16,30
+S01,Eng Weekly Sync,20,2026-03-23,30
+S01,Eng Weekly Sync,21,2026-03-30,30
+S01,Eng Weekly Sync,22,2026-04-06,30
+S01,Eng Weekly Sync,23,2026-04-13,30
+S01,Eng Weekly Sync,24,2026-04-20,30
+S01,Eng Weekly Sync,25,2026-04-27,30
+S02,Roadmap Review,0,2025-11-03,30
+S02,Roadmap Review,1,2025-11-10,30
+S02,Roadmap Review,2,2025-11-17,30
+S02,Roadmap Review,3,2025-11-24,30
+S02,Roadmap Review,4,2025-12-01,30
+S02,Roadmap Review,5,2025-12-08,30
+S02,Roadmap Review,6,2025-12-15,30
+S02,Roadmap Review,7,2025-12-22,30
+S02,Roadmap Review,8,2025-12-29,30
+S02,Roadmap Review,9,2026-01-05,30
+S02,Roadmap Review,10,2026-01-12,30
+S02,Roadmap Review,11,2026-01-19,30
+S02,Roadmap Review,12,2026-01-26,30
+S02,Roadmap Review,13,2026-02-02,30
+S02,Roadmap Review,14,2026-02-09,30
+S02,Roadmap Review,15,2026-02-16,30
+S02,Roadmap Review,16,2026-02-23,30
+S02,Roadmap Review,17,2026-03-02,30
+S02,Roadmap Review,18,2026-03-09,30
+S02,Roadmap Review,19,2026-03-16,30
+S02,Roadmap Review,20,2026-03-23,30
+S02,Roadmap Review,21,2026-03-30,30
+S02,Roadmap Review,22,2026-04-06,30
+S02,Roadmap Review,23,2026-04-13,30
+S02,Roadmap Review,24,2026-04-20,30
+S02,Roadmap Review,25,2026-04-27,30
+S03,Status Round-Table,0,2025-11-03,30
+S03,Status Round-Table,1,2025-11-10,30
+S03,Status Round-Table,2,2025-11-17,30
+S03,Status Round-Table,3,2025-11-24,30
+S03,Status Round-Table,4,2025-12-01,30
+S03,Status Round-Table,5,2025-12-08,30
+S03,Status Round-Table,6,2025-12-15,30
+S03,Status Round-Table,7,2025-12-22,30
+S03,Status Round-Table,8,2025-12-29,30
+S03,Status Round-Table,9,2026-01-05,30
+S03,Status Round-Table,10,2026-01-12,30
+S03,Status Round-Table,11,2026-01-19,30
+S03,Status Round-Table,12,2026-01-26,30
+S03,Status Round-Table,13,2026-02-02,30
+S03,Status Round-Table,14,2026-02-09,30
+S03,Status Round-Table,15,2026-02-16,30
+S03,Status Round-Table,16,2026-02-23,30
+S03,Status Round-Table,17,2026-03-02,30
+S03,Status Round-Table,18,2026-03-09,30
+S03,Status Round-Table,19,2026-03-16,30
+S03,Status Round-Table,20,2026-03-23,30
+S03,Status Round-Table,21,2026-03-30,30
+S03,Status Round-Table,22,2026-04-06,30
+S03,Status Round-Table,23,2026-04-13,30
+S03,Status Round-Table,24,2026-04-20,30
+S03,Status Round-Table,25,2026-04-27,30
+S04,Design Critique,0,2025-11-03,30
+S04,Design Critique,1,2025-11-10,30
+S04,Design Critique,2,2025-11-17,30
+S04,Design Critique,3,2025-11-24,30
+S04,Design Critique,4,2025-12-01,30
+S04,Design Critique,5,2025-12-08,30
+S04,Design Critique,6,2025-12-15,30
+S04,Design Critique,7,2025-12-22,30
+S04,Design Critique,8,2025-12-29,30
+S04,Design Critique,9,2026-01-05,30
+S04,Design Critique,10,2026-01-12,30
+S04,Design Critique,11,2026-01-19,30
+S04,Design Critique,12,2026-01-26,30
+S04,Design Critique,13,2026-02-02,30
+S04,Design Critique,14,2026-02-09,30
+S04,Design Critique,15,2026-02-16,30
+S04,Design Critique,16,2026-02-23,30
+S04,Design Critique,17,2026-03-02,30
+S04,Design Critique,18,2026-03-09,30
+S04,Design Critique,19,2026-03-16,30
+S04,Design Critique,20,2026-03-23,30
+S04,Design Critique,21,2026-03-30,30
+S04,Design Critique,22,2026-04-06,30
+S04,Design Critique,23,2026-04-13,30
+S04,Design Critique,24,2026-04-20,30
+S04,Design Critique,25,2026-04-27,30
+S05,Old All-Hands Prep,0,2025-11-03,30
+S05,Old All-Hands Prep,1,2025-11-10,30
+S05,Old All-Hands Prep,2,2025-11-17,30
+S05,Old All-Hands Prep,3,2025-11-24,30
+S05,Old All-Hands Prep,4,2025-12-01,30
+S05,Old All-Hands Prep,5,2025-12-08,30
+S05,Old All-Hands Prep,6,2025-12-15,30
+S05,Old All-Hands Prep,7,2025-12-22,30
+S05,Old All-Hands Prep,8,2025-12-29,30
+S05,Old All-Hands Prep,9,2026-01-05,30
+S05,Old All-Hands Prep,10,2026-01-12,30
+S05,Old All-Hands Prep,11,2026-01-19,30
+S05,Old All-Hands Prep,12,2026-01-26,30
+S05,Old All-Hands Prep,13,2026-02-02,30
+S05,Old All-Hands Prep,14,2026-02-09,30
+S05,Old All-Hands Prep,15,2026-02-16,30
+S05,Old All-Hands Prep,16,2026-02-23,30
+S05,Old All-Hands Prep,17,2026-03-02,30
+S05,Old All-Hands Prep,18,2026-03-09,30
+S05,Old All-Hands Prep,19,2026-03-16,30
+S05,Old All-Hands Prep,20,2026-03-23,30
+S05,Old All-Hands Prep,21,2026-03-30,30
+S05,Old All-Hands Prep,22,2026-04-06,30
+S05,Old All-Hands Prep,23,2026-04-13,30
+S05,Old All-Hands Prep,24,2026-04-20,30
+S05,Old All-Hands Prep,25,2026-04-27,30
+S06,Incident Postmortem,0,2025-11-03,30
+S06,Incident Postmortem,1,2025-11-10,30
+S06,Incident Postmortem,2,2025-11-17,30
+S06,Incident Postmortem,3,2025-11-24,30
+S06,Incident Postmortem,4,2025-12-01,30
+S06,Incident Postmortem,5,2025-12-08,30
+S06,Incident Postmortem,6,2025-12-15,30
+S06,Incident Postmortem,7,2025-12-22,30
+S06,Incident Postmortem,8,2025-12-29,30
+S06,Incident Postmortem,9,2026-01-05,30
+S06,Incident Postmortem,10,2026-01-12,30
+S06,Incident Postmortem,11,2026-01-19,30
+S06,Incident Postmortem,12,2026-01-26,30
+S06,Incident Postmortem,13,2026-02-02,30
+S06,Incident Postmortem,14,2026-02-09,30
+S06,Incident Postmortem,15,2026-02-16,30
+S06,Incident Postmortem,16,2026-02-23,30
+S06,Incident Postmortem,17,2026-03-02,30
+S06,Incident Postmortem,18,2026-03-09,30
+S06,Incident Postmortem,19,2026-03-16,30
+S06,Incident Postmortem,20,2026-03-23,30
+S06,Incident Postmortem,21,2026-03-30,30
+S06,Incident Postmortem,22,2026-04-06,30
+S06,Incident Postmortem,23,2026-04-13,30
+S06,Incident Postmortem,24,2026-04-20,30
+S06,Incident Postmortem,25,2026-04-27,30
